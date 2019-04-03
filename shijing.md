@@ -1,4 +1,9 @@
 # 诗经
+
+[喜马拉雅电台--林栖品读诗经](https://www.ximalaya.com/renwen/8303151/)
+
+[电子书](https://ctext.org/book-of-poetry/zh)
+
 文学形成：抒发情感
 
 周朝初期 -- 春秋中期，我国最早的一部诗歌总集。
