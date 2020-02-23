@@ -8,14 +8,14 @@
 * 心理学
 * 经济学
 * [文学](文学)
-* [计算机科学]()
-* 语言
+* [计算机科学](https://github.com/MingxiaGuo/Computer-Science)
+* [语言&文化](语言&文化)
+* [历史](历史)
+* 科学：人类探索、不断追求真理的过程
 
 ## Website
 
 * [Dominic Walliman](https://dominicwalliman.com/) Author of 'The map of ....'
-
-
 
 ## The Donut of Knowledge
 
