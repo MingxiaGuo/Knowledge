@@ -4,7 +4,9 @@
 
 这张数学地图，概括了所有的数学分支。
 
-![](assets/map-of-mathematics.webp)
+![](assets/map-of-math-3.png)
+
+![](assets/map-of-mathematics.jpg)
 
 [bilibili video](https://www.bilibili.com/video/av9208524?from=search&seid=9988317757046210559)
 
@@ -14,7 +16,7 @@
 
 故事还得从头开始。数学始于**计数**。事实上，计数不仅仅只是人类的特性，其它的动物（比如鸟、猴子等）也有计数的能力。人类在木头、骨头或石头上的计数符号从史前时代就开始被使用了。在石器时代的文化中，他们会使用计数符号进行赌博、私人服务和交易。
 
-![img](http://5b0988e595225.cdn.sohucs.com/images/20171027/2b6c60f0a346428ba1caca8401cc78f4.jpeg)
+![img](assets/counting.jpeg)
 
 最近的几千年里，在不同的国度，数学都得到了发展。古埃及人写下了第一个方程。古希腊人则在许多方面都有贡献，比如几何和数秘术。中国数学家早就有了负数的概念。“0”这个数字则在印度首次被使用。接着在波斯伊斯兰教的黄金时期，数学家又跨越了一大步，书写了第一部代数学的书籍。在文艺复兴时期，数学与科学则共同欣荣发展。
 
@@ -24,7 +26,7 @@
 
 现代数学可以大致被分为两个领域：**纯粹数学**（研究数学本身）和**应用数学**（用以解决更实际的问题）。但我们要记住的是，它们之间其实有着紧密的关联。如果能的话，这张地图更应该是一张网络，连接着每个相关的分支。但我们现在只能尽量把它呈现在二维的平面上。
 
-![img](http://5b0988e595225.cdn.sohucs.com/images/20171027/37c9ead1c33041f29fcbb0370756ee7e.jpeg)
+![img](assets/map-of-math-2.jpeg)
 
 △ 左边为纯粹数学，右边为应用数学。
 
@@ -42,7 +44,7 @@
 
 纯粹数学主要包括四个部分：数字系统、结构、空间和变化。
 
-![img](http://5b0988e595225.cdn.sohucs.com/images/20171027/18924a79b30046ba8c4db985939dd33b.jpeg)
+![img](assets/pure-math.jpeg)
 
 ### 2.1.1 数字系统
 
@@ -78,9 +80,7 @@
 
 接下来我们进入应用数学的领域。应用数学的主旨在于将抽象的数学工具运用在解答科学、工程、商业及其他领域上的现实问题。
 
-
-
-![img](http://5b0988e595225.cdn.sohucs.com/images/20171027/d2c3334d99a3496883467359bfd184b2.jpeg)
+<img src="assets/applied-math.jpeg" alt="img" style="zoom:67%;" />
 
 △ 数学被广泛地应用在各个科学领域。
 
@@ -114,7 +114,7 @@
 
 现在我们已经概括了纯粹数学和应用数学的主要部分。但是，还没有结束，我们不能够忽略数学的基础。
 
-![img](http://5b0988e595225.cdn.sohucs.com/images/20171027/ea6783e9a6ca4c15ae4c787a24731c7f.jpeg)
+![img](assets/foundations.jpeg)
 
 > 1 起初,高斯定义集合.
 >
@@ -184,7 +184,7 @@
 
 现在，我们有了一张通往数学世界的完整地图：
 
-![img](http://5b0988e595225.cdn.sohucs.com/images/20171027/061f40c9c40540f593606b57a3416b68.jpeg)
+![](assets/map-of-mathematics.jpg)
 
 △ 数学地图。（图片来源：Dominic Walliman）
 
