@@ -1,24 +1,27 @@
-Knowledge
+### Knowledge
 
-* 文学
 * 哲学
-* 科学
-* 数学
+* [数学](数学)
 * [物理](物理)
-* 化学
+* [化学](化学)
 * 生物
 * 心理学
 * 经济学
+* [文学](文学)
+* [计算机科学]()
+* 语言
+
+## Website
+
+* [Dominic Walliman](https://dominicwalliman.com/) Author of 'The map of ....'
 
 
 
 ## The Donut of Knowledge
 
-https://www.youtube.com/watch?v=ohyai6GIRZg
+[Youtube video](https://www.youtube.com/watch?v=ohyai6GIRZg)     [bilibili video](https://www.bilibili.com/video/av47024475?from=search&seid=10402188973178797287)
 
-https://www.bilibili.com/video/av47024475?from=search&seid=10402188973178797287
-
-
+![](assets/the-map-of-science.jpg)
 
 科学的终极目标是设法分析及解释宇宙万物的运作方式，其中包括许多大课题。像是：宇宙从哪来？它究竟是怎么构成的？这些东西是如何运作和互动的？以及人类及其智慧是如何产生，并以此智慧思想及探讨它的存在？这些琐碎的事情自从有人站在星空下抬头仰望星空。唉？人们一直在问这些问题。
 
