@@ -80,7 +80,7 @@
 
 接下来我们进入应用数学的领域。应用数学的主旨在于将抽象的数学工具运用在解答科学、工程、商业及其他领域上的现实问题。
 
-<img src="assets/applied-math.jpeg" alt="img" style="zoom:67%;" />
+![](assets/applied-math.jpeg)
 
 △ 数学被广泛地应用在各个科学领域。
 
